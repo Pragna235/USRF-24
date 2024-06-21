@@ -6,3 +6,4 @@
 * https://github.com/Pragna235/Traffic-Prediction-with-MLP
 * https://github.com/Pragna235/Bird-Classification-using-DL
 * https://github.com/Pragna235/Creating-CNN-Models-from-Scratch
+* https://github.com/Pragna235/Skin-Cancer-Classification

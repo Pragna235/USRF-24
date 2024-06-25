@@ -9,3 +9,4 @@
 * https://github.com/Pragna235/Skin-Cancer-Classification
 * https://github.com/Pragna235/GAN-for-image-generation
 * https://github.com/Pragna235/Text-Data-Handling-with-RNN-for-Sentiment-Analysis
+* https://github.com/Pragna235/Sentiment-Analysis-using-RNN-LSTM
